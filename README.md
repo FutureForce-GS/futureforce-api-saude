@@ -36,7 +36,7 @@ Este projeto é uma API RESTful desenvolvida como parte da avaliação "Global S
 ### Passo a Passo
 1.  **Clone o repositório:**
     ```
-    git clone https://github.com/SUA-ORGANIZACAO/futureforce-api-saude.git
+    git clone https://github.com/FutureForce-GS/futureforce-api-saude.git
     ```
 2.  **Entre na pasta:**
     ```
